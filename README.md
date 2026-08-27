@@ -26,4 +26,16 @@ Automating and tracking my LeetCode Progress...
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Maaqilx/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Maaqilx/Leetcode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Maaqilx/Leetcode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Maaqilx/Leetcode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
