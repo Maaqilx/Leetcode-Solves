@@ -35,10 +35,12 @@ Automating and tracking my LeetCode Progress...
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maaqilx/Leetcode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Maaqilx/Leetcode-Solves/tree/master/0022-generate-parentheses) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Maaqilx/Leetcode-Solves/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maaqilx/Leetcode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Maaqilx/Leetcode-Solves/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
